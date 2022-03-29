@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAtomfried
 - 👀 I’m interested in Coding, Music, Gaming
-- 🌱 I’m currently learning Paython
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on first projects
 - 📫 How to reach me Mail
 
