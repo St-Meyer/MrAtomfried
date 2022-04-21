@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MrAtomfried
 - 👀 I’m interested in Coding, Music, Gaming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on first projects
-- 📫 How to reach me Mail
 
 <!---
 MrAtomfried/MrAtomfried is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
