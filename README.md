@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MrAtomfried
+- 👋 Hi, I’m Steffen Meyer
 - 👀 I’m interested in Coding, Music, Gaming
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m doint vocational retraining to be a programmer
 
 <!---
 MrAtomfried/MrAtomfried is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
